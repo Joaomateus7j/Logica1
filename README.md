@@ -1,6 +1,6 @@
 # Lógica de Programação
 
-Este repositório contém meus exercícios de lógica enquanto acompanho as aulas do **Dev Aprender**. Aqui, registro minha evolução saindo do zero até conceitos mais avançados.
+Este repositório contém meus exercícios de lógica enquanto acompanho as aulas de **Logica de Pramação**. Aqui, registro minha evolução saindo do zero até conceitos mais avançados.
 
 ## 🚀 O que estou praticando:
 
