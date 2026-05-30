@@ -7,3 +7,5 @@ idade = pessoa1_idade + pessoa2_idade
 media = idade / 2
 print(f'A soma da idades de {pessoa1} e {pessoa2} e de {idade} anos')
 print(f'A media de idade entre eles é de {media}')
+
+idade = 15
