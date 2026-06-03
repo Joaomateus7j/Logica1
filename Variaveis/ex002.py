@@ -7,3 +7,4 @@ idade1 = 12
 idade2 = 17
 idade3 = 20
 teste = 1
+Teste2 = 2
