@@ -8,3 +8,4 @@ idade2 = 17
 idade3 = 20
 teste = 1
 Teste2 = 2
+teste3 = 1
