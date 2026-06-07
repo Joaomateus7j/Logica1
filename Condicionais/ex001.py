@@ -7,3 +7,6 @@ if velocidade > 80:
     print(f'Você deve pagar uma multa de R${multa:.2f}!')
 else:
     print('Tenha um bom dia! Dirija com segurança.')
+
+    
+idade = 15
