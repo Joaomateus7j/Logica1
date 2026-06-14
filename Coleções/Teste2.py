@@ -22,3 +22,5 @@ if numeros:  # evita erro se a lista estiver vazia
     print(f"Média: {sum(numeros) / len(numeros):.2f}")
 else:
     print("Nenhum número foi digitado.")
+
+    idadei1 = 12
