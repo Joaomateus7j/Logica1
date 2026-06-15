@@ -23,4 +23,6 @@ if numeros:  # evita erro se a lista estiver vazia
 else:
     print("Nenhum número foi digitado.")
 
-    idadei1 = 12
+
+teste = 30
+teste2 =24
