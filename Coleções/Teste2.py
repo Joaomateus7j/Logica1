@@ -26,3 +26,4 @@ else:
 
 teste = 30
 teste2 =24
+teste23 = 2
