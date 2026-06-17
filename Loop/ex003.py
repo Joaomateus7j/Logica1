@@ -4,3 +4,4 @@ while contador <= 5:
     contador += 1  # Importante para não criar um loop infinito!
 
 # aplicando 22
+teste = 2
