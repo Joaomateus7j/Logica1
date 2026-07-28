@@ -6,3 +6,4 @@ while contador <= 5:
 # aplicando 22
 teste = 2
 teste21 = 21
+teste 21 = 234
