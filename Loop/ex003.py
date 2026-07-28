@@ -7,3 +7,4 @@ while contador <= 5:
 teste = 2
 teste21 = 21
 teste  = 234
+numero = 500
