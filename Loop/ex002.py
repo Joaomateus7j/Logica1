@@ -6,4 +6,4 @@ while senha != '1234':
     if senha != '1234':
         print('Senha incorreta!\n')
 
-print('Acesso liberadoh!')
+print('Acesso liberado!')
